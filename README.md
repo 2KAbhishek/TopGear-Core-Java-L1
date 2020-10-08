@@ -1,4 +1,4 @@
-# core-java-l1
+# Core-Java-L1
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/core-java-l1?style=plastic&color=0f0&label=Size)
 ![Updated](https://img.shields.io/github/last-commit/2kabhishek/core-java-l1?style=plastic&color=f00&label=Updated)
