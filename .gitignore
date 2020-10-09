@@ -1,2 +1,5 @@
 # Java Class files
 *.class
+
+# Data Output files
+*.data
