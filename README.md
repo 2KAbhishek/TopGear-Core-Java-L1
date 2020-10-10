@@ -17,3 +17,4 @@ Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of `jre`
 
 ### More Info
+
