@@ -1,4 +1,4 @@
-<div align = "center"></div>
+<div align="center"></div>
 
 <h1><a href="https://2kabhishek.github.io/TopGear-Core-Java-L1">TopGear-Core-Java-L1</a></h1>
 
@@ -23,11 +23,9 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>Solutions for Core Java L1 problems ☕✅</h2>
 
 </div>
-
-Contains solutions for fundamental problems written during Core Java L1 TopGear training.
 
 ## Prerequisites
 
@@ -54,11 +52,14 @@ javac Filename.java # Compile
 java Filename # Run
 ```
 
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
 <div align="center">
+
+<strong>Disclaimer!</strong><br>
+These solutions have been shared for learning purposes only. <br>
 
 <a href="https://github.com/2KAbhishek/TopGear-Core-Java-L1">Source</a> |
 <a href="https://2kabhishek.github.io/TopGear-Core-Java-L1">Website</a>
